@@ -1,5 +1,5 @@
 # nitrotyperhack
-This is a nitro type bot to use to gain races on nitro type. Here is how to use it.
+This is a nitro type bot you can use to gain races on nitro type. Here is how to use it.
 1. Go to https://replit.com/repls
 2. Create a new script for HTML Javascript and CSS.
 3. Paste the index.html code into the html section
