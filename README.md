@@ -3,7 +3,7 @@ This is a nitro type bot you can use to gain races on nitro type. Here is how to
 1. Go to https://replit.com/repls
 2. Create a new script for HTML Javascript and CSS.
 3. Paste the index.html code into the html section
-4. After you click run button you will see the code pop up. Above the thing that says ULTRA TYPE copy the link.
+4. After you click run button you will see the code pop up. Above the thing that says NITRO TYPER BOT is a link. copy the link.
 5. Paste the link into your web browser(works in google and safari)
 6. enter the username of your account you want to bot on in the username
 7. enter the password of the account you want to bot on in the password
